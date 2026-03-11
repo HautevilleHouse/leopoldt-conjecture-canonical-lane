@@ -1,0 +1,53 @@
+{
+  "constants": {
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Appendix E.6; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Appendix E.6",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 5.3 / Appendix C; raw=0.8051529790660226, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 5.3 / Appendix C",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8051529790660226
+    },
+    "kappa_regulator": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 4.5 / Appendix A; raw=1.091665, ref=1.0, formula=c_reg_raw * regulator_density_raw - e_reg_raw",
+      "source": "artifacts/constants_extracted.json#kappa_regulator",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 4.5 / Appendix A",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.091665
+    },
+    "regulator_transfer": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 6.2 / Appendix E.4; raw=1.029422, ref=1.0, formula=c_reg_bridge_raw * transfer_gain_raw - e_reg_bridge_raw",
+      "source": "artifacts/constants_extracted.json#regulator_transfer",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 6.2 / Appendix E.4",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.029422
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 6.1 / Appendix D; raw=1.076, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 6.1 / Appendix D",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.076
+    },
+    "sigma_padic": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 5.2 / Appendix B; raw=1.073, ref=1.0, formula=padic_floor_raw - local_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_padic",
+      "source_section": "paper/LEOPOLDT_CONJECTURE_PREPRINT.md Section 5.2 / Appendix B",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.073
+    }
+  },
+  "updated_at_utc": "2026-03-11T22:17:48Z"
+}

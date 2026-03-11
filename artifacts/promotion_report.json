@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "leopoldt_conjecture",
+  "generated_utc": "2026-03-11T22:17:48Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8051529790660226,
+    "kappa_regulator": 1.091665,
+    "regulator_transfer": 1.029422,
+    "rho_rigidity": 1.076,
+    "sigma_padic": 1.073
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

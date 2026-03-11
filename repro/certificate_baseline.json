@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "LEO_G1": [],
+    "LEO_G2": [],
+    "LEO_G3": [],
+    "LEO_G4": [],
+    "LEO_G5": [],
+    "LEO_G6": [],
+    "LEO_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8051529790660226
+  },
+  "gates": {
+    "LEO_G1": "PASS",
+    "LEO_G2": "PASS",
+    "LEO_G3": "PASS",
+    "LEO_G4": "PASS",
+    "LEO_G5": "PASS",
+    "LEO_G6": "PASS",
+    "LEO_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8051529790660226,
+    "kappa_regulator": 1.091665,
+    "regulator_transfer": 1.029422,
+    "rho_rigidity": 1.076,
+    "sigma_padic": 1.073,
+    "sigma_star_can": 1.054
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-03-11T22:17:07+00:00",
+    "framework": "leopoldt_conjecture"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}
