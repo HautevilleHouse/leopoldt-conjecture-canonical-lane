@@ -1,6 +1,6 @@
 # EG1 Public Note (Projected Response Floor)
 
-Mature wording: `projection / protected core`.
+Canonical wording: `projection / protected core`.
 
 In-paper anchor: `paper/LEOPOLDT_CONJECTURE_PREPRINT.md` (`LEO_G1`).
 
@@ -38,5 +38,5 @@ If Lemmas EG1.1-EG1.2 hold and the runtime artifact accepts `kappa_regulator`, t
 
 - gate: `LEO_G1`
 - artifact key: `kappa_regulator`
-- mature equivalent: `projection / protected core`
+- canonical equivalent: `projection / protected core`
 - audit surface: `artifacts/constants_registry.json`, `artifacts/constants_extracted.json`, and `repro/certificate_runtime.json`
